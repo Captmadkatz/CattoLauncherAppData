@@ -1,0 +1,2 @@
+# CattoLauncherAppData
+FOR SOFTWARE
